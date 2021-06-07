@@ -265,6 +265,10 @@ footer p {
         flex-flow: column nowrap;
     }
 
+    .column {
+        padding: 20px 15px;
+    }
+
     .left, .right {
         width: 100%;
     }
