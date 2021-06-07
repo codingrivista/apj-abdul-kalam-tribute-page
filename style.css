@@ -194,9 +194,6 @@ footer p {
 /* Media query */
 
 @media screen and (max-width: 900px) {
-    header {
-        height: 92vh;
-    }
 
     .banner {
         display: flex;
