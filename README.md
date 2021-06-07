@@ -5,4 +5,4 @@ Here is the live page: https://codingrivista.github.io/apj-abdul-kalam-tribute-p
 
 Here is the live preview of the webpage:
 
-![APJ Abdul Kalam](https://github.com/codingrivista/apj-abdul-kalam-tribute-page/blob/main/img/Dr-A-P-J-Abdul-Kalam-The-People-s-President.png)
+![APJ Abdul Kalam](https://github.com/codingrivista/apj-abdul-kalam-tribute-page/blob/main/img/A-P-J-Abdul-Kalam.png)
