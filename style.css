@@ -43,10 +43,6 @@ header {
     font-size: 17px;
 }
 
-.welcome p br {
-    display: none;
-}
-
 input[type=checkbox], .menu-icon {
     display: none;
 }
@@ -196,22 +192,6 @@ footer p {
 }
 
 /* Media query */
-
-@media screen and (max-width: 1100px) {
-    .welcome h1 {
-        font-size: 25px;
-        margin-bottom: 20px;
-    }
-    
-    .welcome p {
-        font-size: 16px;
-        line-height: 1.7em;
-    }
-
-    .welcome p br {
-        display: inline;
-    }
-}
 
 @media screen and (max-width: 900px) {
     header {
